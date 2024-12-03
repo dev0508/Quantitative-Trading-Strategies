@@ -1,6 +1,6 @@
 # Quantitative-Trading-Strategies
 
-Note: I am using 1 Million dollars at the investment amount
+Note: I am using 1 Million dollars as the investment amount
 
 # Momentum Based
 
